@@ -1,5 +1,2 @@
 
-print("hello Nachopal"
-    )
-
-
+grgbrbgr
